@@ -6,7 +6,14 @@ vera.zhokhova@gmail.com |
 [GitHub](https://github.com/VeraSa785)
 
 ## Skills
-Python, Java, JavaScript, SQL, AWS
+**Programming**: Python, Java, TypeScript, SWIFT, SWIFT UI, HTML/CSS, JavaScript, SQL.
+Tools & Technologies: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, React, Google Firebase, Flask, PostgreSQL, Postman, Git.
+
+**Adaptivity and flexibilit**y: during my Amazon internship, I worked with new technology. Despite the challenge, I quickly learned Java, Mockito, and other internal tools to complete my tasks.
+
+**Teamwork skills**: I excel at fostering a positive work environment by bringing people together and promoting collaboration within my team. This strength enables us to perform at our best.
+
+**Excellent observational and attention to detail skills**: my +5 years of accounting experience have enhanced these skills, vital for daily ledger entries, tax return filing, and government report preparation.
 
 ## Technical Experience
 | Projects      | Description | Technologies     | GitHub |
@@ -19,47 +26,31 @@ Python, Java, JavaScript, SQL, AWS
 | [Personal Portfolio Site](https://verasa785.github.io/index.html)      | Built an HTML website from scratch and applied visual styles using CSS.       | HTML, CSS   | [GitHub](https://github.com/VeraSa785/VeraSa785.github.io)|
 | Task List API   | Created two models and implemented conventional RESTful CRUD routes for them using the Flask framework.      | Python/Flask, SQL, PostgreSQL      | [GitHub](https://github.com/VeraSa785/task-list-api)|
 
-### Camping Alert Chat Bot
-- Currently working on a project.
-### Check this out!
-- Built an iOS app from scratch
-- Learned SwiftUI by building basic to advanced UI layouts
-- Implemented the Model-View-ViewModel (MVVM) architecture
-- Registered and authenticated users using Firebase
-- Communicated with Firebase Firestore database for reading and writing data
-- Used Git and GitHub for version control
-- Created functions, enums, and extensions for clean and reusable code
-- Created custom views and modifiers for best practices
-- Used Scrum and Agile project methodologies
-### Inspiration Board
--Built a REST API that stores the board model 
--Created unconventional routes for customized behavior
--Configured and Tested CRUD API endpoints with Pytest and Postman for the board model
--Applied environment variables to the path to databases for development and test environments
--Created a one-to-many relationship between two models(Board and Card)
-- Used Scrum and Agile project methodologies
-### React Chat Log
-- Built React components that received data through props
-- Built React container components that passed information down to their subcomponents
-- Initialized and used state within a component to manage dynamic data
-- Passed callback functions to child components and used them to update state when necessary
-- Practiced reading and running tests to ensure code quality and functionality
-- Used Git as part of the development workflow to track changes and collaborate with team members
-- Demonstrated understanding of the front-end layer and the relationship between user interaction and the user interface
-### Weather Report
-- Used a proxy server to manage the API key for a third-party service
-- Using Axios to call third-party APIs to retrieve data for a weather application
-- Structured the website content using HTML and applied styles using CSS
-- Manipulated the DOM and handled events to create an interactive user interface
-- Handled asynchronous calls to retrieve data from third-party APIs
-- Deployed the website using the Sage hosting service
-### Personal Portfolio Site
-- Built an HTML website from scratch and applied visual styles using CSS
-- Deployed the website using the GitHub service
-### Task List API 
-- Created two models and implemented conventional RESTful CRUD routes for them using the Flask framework. Established a one-to-many relationship between these models
-- Implemented routes for reading query parameters with custom behavior using an external web API
-- Deployed the Flask application using the Heroku service
-- Wrote and implemented unit tests
-
 ## Experience
+### Freelance Developer based in Bellevue, Washington (March 2023 - present)
+- Contributed to development of client and server database applications.
+### Software Development Engineer Intern at Amazon (August 2022 - January 2023)
+- Successfully delivered 6 separate projects, including stretch goals, and delivered on schedule dispute encountering delays that were outside of my control.
+- Worked across 3 different functional domains.
+- Developed a notification system using AWS technologies that reduced the fallback rate by 80% for millions of Alexa device customers.
+- Identified and addressed a blind spot in system logging for business logic for generating all customer deals, preventing silent failures, and improving on-call performance.
+- Created code, unit tests, and an SQS queue to subscribe to the SNS topic from CDK using TypeScript.
+- Wrote and maintained weekly Wiki pages to document and analyze my work accomplishments, areas for improvement, and blockers, demonstrating strong communication and self-reflection skills.
+- Actively engaged with leadership principles and sought out feedback and guidance from mentors and colleagues, demonstrating a commitment to personal and professional growth.
+- Participated in Agile workflow practices, working collaboratively with a team of 14 engineers, which involved sprint planning, standups, and retrospectives.
+### Software Development Student at Ada Developers Academy (March 2022 - January 2023)
+-
+### Freelance Graphic Designer based in Moscow, Russia (January 2016 - November 2016)
+- Developed creative design for marketing packages, including print materials, brochures, banners, and signs.
+- Used Adobe Photoshop and Adobe Illustrator to design logos, product mockups, and prototypes.
+- Produced all print materials including brochures, banners, and signs.
+### Accountant at GSL Law and Consulting, Russia (September 2012 - December 2015)
+- Compiled general ledger entries on a short schedule with 100% accuracy. 
+- Accurately calculated deductions and processed payroll for 50 employees. 
+- Filed tax returns and prepared governmental reports in compliance with strict standards. 
+- Regularly produced articles for the company website, utilizing a question-and-answer format to provide users with clear and concise information, demonstrating strong writing and communication skills.
+
+## Education
+- Full Stack Web Development at the Ada Developers Academy.
+- CS Fundamentals course in the Code in Place program at Stanford University.
+- Master of Economics at the Moscow State Industrial Univercity: 3.9 GPA.
