@@ -7,13 +7,14 @@ vera.zhokhova@gmail.com |
 
 ## Skills
 **Programming**: Python, Java, TypeScript, SWIFT, SWIFT UI, HTML/CSS, JavaScript, SQL.
-Tools & Technologies: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, React, Google Firebase, Flask, PostgreSQL, Postman, Git.
 
-**Adaptivity and flexibilit**y: during my Amazon internship, I worked with new technology. Despite the challenge, I quickly learned Java, Mockito, and other internal tools to complete my tasks.
+**Tools & Technologies**: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, React, Google Firebase, Flask, PostgreSQL, Postman, Git.
 
-**Teamwork skills**: I excel at fostering a positive work environment by bringing people together and promoting collaboration within my team. This strength enables us to perform at our best.
+**Adaptivity and flexibilit**y: Adapted quickly to new technologies at Amazon, learning Java and Mockito to complete tasks efficiently and contribute to the team.
 
-**Excellent observational and attention to detail skills**: my +5 years of accounting experience have enhanced these skills, vital for daily ledger entries, tax return filing, and government report preparation.
+**Teamwork skills**: Collaborated with a cross-functional team on a project, fostering a positive work environment and helping to complete the project ahead of schedule. 
+
+**Excellent observational and attention to detail skills**: My 5+ years of accounting experience have sharpened my observation and attention to detail skills. During a demo session at Amazon, I spotted an error in a statement, allowing the team to make necessary changes and present a successful demo.
 
 ## Technical Experience
 | Projects      | Description | Technologies     | GitHub |
@@ -27,8 +28,6 @@ Tools & Technologies: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, React, Google Fir
 | Task List API   | Created two models and implemented conventional RESTful CRUD routes for them using the Flask framework.      | Python/Flask, SQL, PostgreSQL      | [GitHub](https://github.com/VeraSa785/task-list-api)|
 
 ## Experience
-### Freelance Developer based in Bellevue, Washington (March 2023 - present)
-- Contributed to development of client and server database applications.
 ### Software Development Engineer Intern at Amazon (August 2022 - January 2023)
 - Successfully delivered 6 separate projects, including stretch goals, and delivered on schedule dispute encountering delays that were outside of my control.
 - Worked across 3 different functional domains.
@@ -39,7 +38,10 @@ Tools & Technologies: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, React, Google Fir
 - Actively engaged with leadership principles and sought out feedback and guidance from mentors and colleagues, demonstrating a commitment to personal and professional growth.
 - Participated in Agile workflow practices, working collaboratively with a team of 14 engineers, which involved sprint planning, standups, and retrospectives.
 ### Software Development Student at Ada Developers Academy (March 2022 - January 2023)
--
+- Learned Python, Java, TypeScript, and CS Fundamentals.
+- Built a REST API using the Flask framework and SQL database, which was successfully deployed to Heroku.
+- Created accessible web application using HTML, CSS, JavaScript and React.
+- Successfully completed 10 projects with stretch goals.
 ### Freelance Graphic Designer based in Moscow, Russia (January 2016 - November 2016)
 - Developed creative design for marketing packages, including print materials, brochures, banners, and signs.
 - Used Adobe Photoshop and Adobe Illustrator to design logos, product mockups, and prototypes.
@@ -51,6 +53,6 @@ Tools & Technologies: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, React, Google Fir
 - Regularly produced articles for the company website, utilizing a question-and-answer format to provide users with clear and concise information, demonstrating strong writing and communication skills.
 
 ## Education
-- Full Stack Web Development at the Ada Developers Academy.
-- CS Fundamentals course in the Code in Place program at Stanford University.
-- Master of Economics at the Moscow State Industrial Univercity: 3.9 GPA.
+- Full Stack Web Development at the Ada Developers Academy (January 2023)
+- CS Fundamentals course in the Code in Place program at Stanford University (June 2021)
+- Master of Economics at the Moscow State Industrial Univercity: 3.9 GPA (June 2013)
