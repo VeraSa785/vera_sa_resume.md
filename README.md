@@ -6,28 +6,21 @@ vera.zhokhova@gmail.com |
 [GitHub](https://github.com/VeraSa785)
 
 ## Skills
-**Programming**: Python, Java, TypeScript, SWIFT, SWIFT UI, HTML/CSS, JavaScript, SQL.
+**Programming**: Python, Java, Kotlin, TypeScript, SWIFT, SWIFT UI, HTML/CSS, JavaScript, SQL.
 
-**Tools & Technologies**: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, React, Google Firebase, Flask, PostgreSQL, Postman, Git.
+**Tools & Technologies**: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, Angular, React, Google Firebase, Google Cloud Platform, Flask, PostgreSQL, Postman, Git.
 
-**Adaptivity and flexibilit**y: Adapted quickly to new technologies at Amazon, learning Java and Mockito to complete tasks efficiently and contribute to the team.
+**Adaptivity and flexibility**: Adapted quickly to new technologies at Amazon, learning Java and Mockito to complete tasks efficiently and contribute to the team.
 
 **Teamwork skills**: Collaborated with a cross-functional team on a project, fostering a positive work environment and helping to complete the project ahead of schedule. 
 
 **Excellent observational and attention to detail skills**: My 5+ years of accounting experience have sharpened my observation and attention to detail skills. During a demo session at Amazon, I spotted an error in a statement, allowing the team to make necessary changes and present a successful demo.
 
-## Technical Experience
-| Projects      | Description | Technologies     | GitHub |
-| :---        |    :----:   |   :----:   |       ---: |
-| Camping Alert Chat Bot      | This is my project for receiving notifications when specific campsites become available.       | Telegram messenger, Python   |[GitHub](https://github.com/VeraSa785/Camping-Alert-Chat-Bot/blob/main/README.md) |
-| [Check this out!](https://www.youtube.com/watch?v=x2WnYd-pKuo)      | "Check this out!" is an easy-to-use iOS app that helps users remember items and tasks while on the go. It allows users to create specific lists for different categories and add descriptions for each item.        | Swift, SwiftUI, MVVM, Firebase   |[GitHub](https://github.com/VeraSa785/check-this-out-capstone)|
-| [Inspiration Board](https://thaimynguyen.github.io/front-end-inspiration-board/)   | This is a digital inspiration board. | Python/Flask, SQL, JavaScript/React, PostgreSQL      | [Backend](https://github.com/VeraSa785/back-end-inspiration-board) [Frontend](https://github.com/VeraSa785/front-end-inspiration-board)|
-| React Chat Log      | In this project I used core React concepts to build a chat messenger-style application that displays a log of chat messages between two people, using static data from a JSON file.       | JavaScript/React, CSS  |[GitHub](https://github.com/VeraSa785/react-chatlog)|
-| [Weather Report](https://vera-and-diana-weather-report.surge.sh/)    | This JavaScript web app uses Axios to call the Weather Report proxy server. It lets users get weather info by entering a location's name.         | JavaScript, HTML, CSS, ProxyServer(flask-cors), Surge     |[GitHub](https://github.com/ada-c17/weather-report) | 
-| [Personal Portfolio Site](https://verasa785.github.io/index.html)      | Built an HTML website from scratch and applied visual styles using CSS.       | HTML, CSS   | [GitHub](https://github.com/VeraSa785/VeraSa785.github.io)|
-| Task List API   | Created two models and implemented conventional RESTful CRUD routes for them using the Flask framework.      | Python/Flask, SQL, PostgreSQL      | [GitHub](https://github.com/VeraSa785/task-list-api)|
-
 ## Experience
+### Software Engineer I at Golf Pad (Contract) (August 2023 - Present) 
+- Modernizing technology from a 12-year-old system by redeveloping the website from scratch.
+- Boosted codebase readability and maintainability by migrating legacy Java code to Kotlin, resulting in a 30% reduction in code verbosity, an 80% decrease in null pointer exceptions, and a 25% increase in developer productivity.
+- Modernized the outdated Google Web Toolkit (GWT) codebase, reducing server load by 50% and improving response times by 30%, while introducing Angular and TypeScript for front-end development.
 ### Software Development Engineer Intern at Amazon (August 2022 - January 2023)
 - Successfully delivered 6 separate projects, including stretch goals, and delivered on schedule dispute encountering delays that were outside of my control.
 - Worked across 3 different functional domains.
@@ -40,7 +33,7 @@ vera.zhokhova@gmail.com |
 ### Software Development Student at Ada Developers Academy (March 2022 - January 2023)
 - Learned Python, Java, TypeScript, and CS Fundamentals.
 - Built a REST API using the Flask framework and SQL database, which was successfully deployed to Heroku.
-- Created accessible web application using HTML, CSS, JavaScript and React.
+- Created accessible web applications using HTML, CSS, JavaScript, and React.
 - Successfully completed 10 projects with stretch goals.
 ### Freelance Graphic Designer based in Moscow, Russia (January 2016 - November 2016)
 - Developed creative design for marketing packages, including print materials, brochures, banners, and signs.
@@ -51,6 +44,17 @@ vera.zhokhova@gmail.com |
 - Accurately calculated deductions and processed payroll for 50 employees. 
 - Filed tax returns and prepared governmental reports in compliance with strict standards. 
 - Regularly produced articles for the company website, utilizing a question-and-answer format to provide users with clear and concise information, demonstrating strong writing and communication skills.
+
+## Technical Experience
+| Projects      | Description | Technologies     | GitHub |
+| :---        |    :----:   |   :----:   |       ---: |
+| Job Updates Telegram Chatbot      | The chatbot's primary purpose is to simplify the job hunting process by monitoring job listings on Smartsheet and Remitly websites.     | Telegram messenger, Python   |[GitHub](https://github.com/VeraSa785/Job-Updates-Telegram-Chatbot) |
+| [Check this out!](https://www.youtube.com/watch?v=x2WnYd-pKuo)      | "Check this out!" is an easy-to-use iOS app that helps users remember items and tasks while on the go. It allows users to create specific lists for different categories and add descriptions for each item.        | Swift, SwiftUI, MVVM, Firebase   |[GitHub](https://github.com/VeraSa785/check-this-out-capstone)|
+| [Inspiration Board](https://thaimynguyen.github.io/front-end-inspiration-board/)   | This is a digital inspiration board. | Python/Flask, SQL, JavaScript/React, PostgreSQL      | [Backend](https://github.com/VeraSa785/back-end-inspiration-board) [Frontend](https://github.com/VeraSa785/front-end-inspiration-board)|
+| React Chat Log      | In this project I used core React concepts to build a chat messenger-style application that displays a log of chat messages between two people, using static data from a JSON file.       | JavaScript/React, CSS  |[GitHub](https://github.com/VeraSa785/react-chatlog)|
+| [Weather Report](https://vera-and-diana-weather-report.surge.sh/)    | This JavaScript web app uses Axios to call the Weather Report proxy server. It lets users get weather info by entering a location's name.         | JavaScript, HTML, CSS, ProxyServer(flask-cors), Surge     |[GitHub](https://github.com/ada-c17/weather-report) | 
+| [Personal Portfolio Site](https://verasa785.github.io/index.html)      | Built an HTML website from scratch and applied visual styles using CSS.       | HTML, CSS   | [GitHub](https://github.com/VeraSa785/VeraSa785.github.io)|
+| Task List API   | Created two models and implemented conventional RESTful CRUD routes for them using the Flask framework.      | Python/Flask, SQL, PostgreSQL      | [GitHub](https://github.com/VeraSa785/task-list-api)|
 
 ## Education
 - Full Stack Web Development at the Ada Developers Academy (January 2023)
