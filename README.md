@@ -22,14 +22,10 @@ vera.zhokhova@gmail.com |
 - Transformed legacy Java code into **Kotlin**, resulting in a 30% reduction in code verbosity, an **80% decrease in null pointer exceptions**, and a 25% increase in developer productivity, enhancing codebase readability and maintainability.
 - Revamped the outdated GWT codebase with **Angular** and **TypeScript**, improving the user experience and **enhancing moderator efficiency by 40%**.
 ### Software Development Engineer Intern at Amazon (August 2022 - January 2023)
-- Successfully delivered 6 separate projects, including stretch goals, and delivered on schedule dispute encountering delays that were outside of my control.
-- Worked across 3 different functional domains.
-- Developed a notification system using AWS technologies that reduced the fallback rate by 80% for millions of Alexa device customers.
-- Identified and addressed a blind spot in system logging for business logic for generating all customer deals, preventing silent failures, and improving on-call performance.
-- Created code, unit tests, and an SQS queue to subscribe to the SNS topic from CDK using TypeScript.
-- Wrote and maintained weekly Wiki pages to document and analyze my work accomplishments, areas for improvement, and blockers, demonstrating strong communication and self-reflection skills.
-- Actively engaged with leadership principles and sought out feedback and guidance from mentors and colleagues, demonstrating a commitment to personal and professional growth.
-- Participated in Agile workflow practices, working collaboratively with a team of 14 engineers, which involved sprint planning, standups, and retrospectives.
+- Developed a **notification system** using **Java** and **AWS technologies** that **reduced the fallback rate by 80%** for millions of Alexa device customers.
+- Improved the deal filtering system for customers by **optimizing product filtering**, achieved through **Java**, leading to improved user interactions with Alexa devices.
+- Recognized and **fixed a system logging gap** in **Java** code, enhancing on-call performance, and **preventing silent failures** during customer deal generation, resulting in a **25% reduction** in related incidents.
+- Designed and implemented a **TypeScript** solution for subscribing to an **SNS topic** via **SQS queues** across **three distinct functional domains** using **AWS CDK**.
 ### Software Development Student at Ada Developers Academy (March 2022 - January 2023)
 - Learned Python, Java, TypeScript, and CS Fundamentals.
 - Built a REST API using the Flask framework and SQL database, which was successfully deployed to Heroku.
