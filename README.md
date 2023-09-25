@@ -10,17 +10,17 @@ vera.zhokhova@gmail.com |
 
 **Tools & Technologies**: AWS, SNS, SQS, Lambda, Dynamo DB, Coral, Angular, React, Google Firebase, Google Cloud Platform, Flask, PostgreSQL, Postman, Git.
 
-**Adaptivity and flexibility**: Adapted quickly to new technologies at Amazon, learning Java and Mockito to complete tasks efficiently and contribute to the team.
+**Adaptivity and flexibility**: Adapted quickly to new technologies at Amazon, learning **Java** and **Mockito** to complete tasks efficiently and contribute to the team.
 
-**Teamwork skills**: Collaborated with a cross-functional team on a project, fostering a positive work environment and helping to complete the project ahead of schedule. 
+**Teamwork skills**: Collaborated with a cross-functional team on a project, **fostering a positive work environment** and helping to complete the project ahead of schedule. 
 
 **Excellent observational and attention to detail skills**: My 5+ years of accounting experience have sharpened my observation and attention to detail skills. During a demo session at Amazon, I spotted an error in a statement, allowing the team to make necessary changes and present a successful demo.
 
 ## Experience
 ### Software Engineer I at Golf Pad (Contract) (August 2023 - Present) 
-- Modernizing technology from a 12-year-old system by redeveloping the website from scratch.
-- Boosted codebase readability and maintainability by migrating legacy Java code to Kotlin, resulting in a 30% reduction in code verbosity, an 80% decrease in null pointer exceptions, and a 25% increase in developer productivity.
-- Modernized the outdated Google Web Toolkit (GWT) codebase, reducing server load by 50% and improving response times by 30%, while introducing Angular and TypeScript for front-end development.
+- Independently revitalized a 12-year-old system by orchestrating a comprehensive website redevelopment, employing **Kotlin, Ktor, Gradle, Angular, and TypeScript** to modernize the technology stack and elevate system performance to current standards.
+- Transformed legacy Java code into **Kotlin**, resulting in a 30% reduction in code verbosity, an **80% decrease in null pointer exceptions**, and a 25% increase in developer productivity, enhancing codebase readability and maintainability.
+- Revamped the outdated GWT codebase with **Angular** and **TypeScript**, improving the user experience and **enhancing moderator efficiency by 40%**.
 ### Software Development Engineer Intern at Amazon (August 2022 - January 2023)
 - Successfully delivered 6 separate projects, including stretch goals, and delivered on schedule dispute encountering delays that were outside of my control.
 - Worked across 3 different functional domains.
